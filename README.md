@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cridious&label=Profile%20views&color=0e75b6&style=flat" alt="cridious" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cridious" target="blank"><img src="https://img.shields.io/twitter/follow/visnj4?logo=twitter&style=for-the-badge" alt="cridious" /></a> </p>
+<p align="left"> <a href="https://instagram.com/cridious" target="blank"><img src="https://img.shields.io/twitter/follow/cridious?logo=twitter&style=for-the-badge" alt="cridious" /></a> </p>
 
 - 🌱 I’m currently learning **escaping from reality...**
 
